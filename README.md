@@ -7,9 +7,7 @@ Hi there! I'm Joey Hernandez-Ramos. Thanks for stopping by my portfolio, where I
 With a five-year journey as a Data Analyst and Statistician, I've grown to love the art of turning complex data puzzles into clear, actionable insights using SQL, Python, and Tableau. Alongside my BA in Mathematical Economics from Pomona College, I've sharpened my skills through the Advanced Google Data Analytics Professional Certificate and the Correlation One Data Science Honors Certificate. My enthusiasm lies in exploring the realms of data science, AI, and quantum computing. 
 
 ## 📈 Ongoing Portfolio Projects & Certifications
-
-- **[BCG Data Science & Advanced Analytics Virtual Experience Program](https://www.theforage.com/simulations/bcg/data-science-ccdz)**
-- **[Microsoft Azure Data Scientist Certification](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/)**
+- **[Microsoft Azure Data Engineering Certification](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/)**
 
 ## ℹ️ Professional Background and Skills ℹ️
 
