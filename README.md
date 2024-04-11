@@ -4,7 +4,7 @@ Hi there! I'm Joey Hernandez-Ramos. Thanks for stopping by my portfolio, where I
 
 ## ✨ About Me ✨
 
-With a four-year journey as a Data Analyst and Statistician, I've grown to love the art of turning complex data puzzles into clear, actionable insights using SQL, Python, and Tableau. Alongside my BA in Mathematical Economics from Pomona College, I've sharpened my skills through the Advanced Google Data Analytics Professional Certificate and the Correlation One Data Science Honors Certificate. My enthusiasm lies in exploring the realms of data science, AI, and quantum computing. 
+With a five-year journey as a Data Analyst and Statistician, I've grown to love the art of turning complex data puzzles into clear, actionable insights using SQL, Python, and Tableau. Alongside my BA in Mathematical Economics from Pomona College, I've sharpened my skills through the Advanced Google Data Analytics Professional Certificate and the Correlation One Data Science Honors Certificate. My enthusiasm lies in exploring the realms of data science, AI, and quantum computing. 
 
 ## 📈 Ongoing Portfolio Projects & Certifications
 
